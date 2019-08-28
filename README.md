@@ -1,3 +1,3 @@
 A React Context Example with classes
 
-(/docs/app-screenshot.png)
+![App Example](/docs/app-screenshot.png?raw=true "App Example")
